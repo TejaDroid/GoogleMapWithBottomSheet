@@ -1,0 +1,4 @@
+#Wed Sep 05 16:35:15 IST 2018
+base.0=/Users/Tejas/Documents/LibraryApp/Google_Map/GoogleMapWithBottomSheet/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
